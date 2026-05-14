@@ -1,4 +1,4 @@
-<img width="1257" height="202" alt="image" src="https://github.com/user-attachments/assets/423a4b61-5afb-47f7-a6fb-43f8004e7c01" /><img width="563" height="235" alt="image" src="https://github.com/user-attachments/assets/999aaa54-e5aa-4b9f-b4e9-287da37b2fe1" /><img width="563" height="235" alt="image" src="https://github.com/user-attachments/assets/a1a5c23e-97fb-4dd1-99ae-8e4205569a50" /><img width="429" height="297" alt="image" src="https://github.com/user-attachments/assets/0a578b3d-e38d-4638-ad6d-36317ffa6d40" /># Developing a Neural Network Classification Model
+# Developing a Neural Network Classification Model
 
 ## AIM
 To develop a neural network classification model for the given dataset.
